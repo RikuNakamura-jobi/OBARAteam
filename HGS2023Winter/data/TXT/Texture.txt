@@ -1,0 +1,34 @@
+#===========================================================
+#
+# テクスチャの情報 [Texture.txt]
+# Author : 小原立暉
+#
+#===========================================================
+
+# テクスチャの情報
+TEXTURE = data\TEXTURE\Number.png			# 番号
+TEXTURE = data\TEXTURE\ObaraArcadia2.png	# アルカディアマーク
+TEXTURE = data\TEXTURE\PauseContinue.png	# コンティニュー
+TEXTURE = data\TEXTURE\PauseMenu.png		# ポーズメニュー
+TEXTURE = data\TEXTURE\PauseReset.png		# リセット
+TEXTURE = data\TEXTURE\PauseTitle.png		# タイトル
+TEXTURE = data\TEXTURE\shadow.jpg			# 影
+TEXTURE = data\TEXTURE\TimeNumber.png		# 時間の数字
+TEXTURE = data\TEXTURE\TimeDot.png			# 時間の点
+
+# 演出系
+TEXTURE = data\TEXTURE\Platform\danger001.png		# 危険マーク001
+TEXTURE = data\TEXTURE\Platform\Dstr001.png			# 撃破001(ギザギザ)
+TEXTURE = data\TEXTURE\Platform\Dstr002.png			# 撃破002(フワフワ)
+TEXTURE = data\TEXTURE\Platform\Dstr003.png			# 撃破003(爆発)
+TEXTURE = data\TEXTURE\Platform\Dust.tga			# 埃エフェクト
+TEXTURE = data\TEXTURE\Platform\effect000.jpg		# ノーマルエフェクト
+TEXTURE = data\TEXTURE\Platform\Help.png			# 救助要請
+TEXTURE = data\TEXTURE\Platform\NoonSky.jpg			# 夕日の空
+TEXTURE = data\TEXTURE\Platform\PopSmoke.tga		# ポップな煙エフェクト
+TEXTURE = data\TEXTURE\Platform\PushKeySpace.png	# SPACEキー
+TEXTURE = data\TEXTURE\Platform\PushPadA.png		# Aボタン
+TEXTURE = data\TEXTURE\Platform\Rupture.tga			# 破裂エフェクト
+TEXTURE = data\TEXTURE\Platform\SkyBox.jpg			# 青空
+TEXTURE = data\TEXTURE\Platform\smoke.tga			# 煙エフェクト
+TEXTURE = data\TEXTURE\Platform\Stun.png			# 気絶のひよこ
