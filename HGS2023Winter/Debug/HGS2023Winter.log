@@ -12,16 +12,18 @@
   shadowCircle.cpp
   score.cpp
   scene.cpp
+  sample_manager.cpp
+  sample.cpp
   ripple.cpp
   result.cpp
   renderer.cpp
   ranking.cpp
   push_timing.cpp
-  pause.cpp
-  particle2D.cpp
-c:\users\student\documents\visual studio 2015\projects\hgs2023winter\particle2d.cpp(138): warning C4100: 'type': 引数は関数の本体部で 1 度も参照されません。
   コードを生成中...
   コンパイル中...
+  pause.cpp
+  particle2D.cpp
+c:\users\student\desktop\obarateam\hgs2023winter\particle2d.cpp(138): warning C4100: 'type': 引数は関数の本体部で 1 度も参照されません。
   Particle.cpp
   orbit.cpp
   objectX.cpp
@@ -40,10 +42,10 @@ c:\users\student\documents\visual studio 2015\projects\hgs2023winter\particle2d.
   model.cpp
   mesh_wall.cpp
   mesh_manager.cpp
-  mesh_field.cpp
-  mesh_dome.cpp
   コードを生成中...
   コンパイル中...
+  mesh_field.cpp
+  mesh_dome.cpp
   mesh_cylinder.cpp
   manager.cpp
   main.cpp
@@ -52,7 +54,7 @@ c:\users\student\documents\visual studio 2015\projects\hgs2023winter\particle2d.
   locus2D.cpp
   light.cpp
   input.cpp
-c:\users\student\documents\visual studio 2015\projects\hgs2023winter\input.cpp(38): warning C4100: 'hWnd': 引数は関数の本体部で 1 度も参照されません。
+c:\users\student\desktop\obarateam\hgs2023winter\input.cpp(38): warning C4100: 'hWnd': 引数は関数の本体部で 1 度も参照されません。
   game.cpp
   fraction.cpp
   file.cpp
@@ -63,13 +65,13 @@ c:\users\student\documents\visual studio 2015\projects\hgs2023winter\input.cpp(3
   destruction.cpp
   debugproc.cpp
   danger_mark.cpp
-  confetti.cpp
-  collpolygon.cpp
   コードを生成中...
   コンパイル中...
+  confetti.cpp
+  collpolygon.cpp
   collision.cpp
   character.cpp
   camera.cpp
   コードを生成中...
-  HGS2023Winter.vcxproj -> c:\users\student\documents\visual studio 2015\Projects\HGS2023Winter\Debug\HGS2023Winter.exe
-  HGS2023Winter.vcxproj -> c:\users\student\documents\visual studio 2015\Projects\HGS2023Winter\Debug\HGS2023Winter.pdb (Full PDB)
+  HGS2023Winter.vcxproj -> C:\Users\student\Desktop\OBARAteam\HGS2023Winter\Debug\HGS2023Winter.exe
+  HGS2023Winter.vcxproj -> C:\Users\student\Desktop\OBARAteam\HGS2023Winter\Debug\HGS2023Winter.pdb (Full PDB)

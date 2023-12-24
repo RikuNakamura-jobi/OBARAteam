@@ -202,6 +202,8 @@
     <ClCompile Include="renderer.cpp" />
     <ClCompile Include="result.cpp" />
     <ClCompile Include="ripple.cpp" />
+    <ClCompile Include="sample.cpp" />
+    <ClCompile Include="sample_manager.cpp" />
     <ClCompile Include="scene.cpp" />
     <ClCompile Include="score.cpp" />
     <ClCompile Include="shadowCircle.cpp" />
@@ -268,6 +270,8 @@
     <ClInclude Include="renderer.h" />
     <ClInclude Include="result.h" />
     <ClInclude Include="ripple.h" />
+    <ClInclude Include="sample.h" />
+    <ClInclude Include="sample_manager.h" />
     <ClInclude Include="scene.h" />
     <ClInclude Include="score.h" />
     <ClInclude Include="shadowCircle.h" />

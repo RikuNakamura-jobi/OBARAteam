@@ -49,6 +49,9 @@
     <Filter Include="UI">
       <UniqueIdentifier>{106b3332-25bb-46e8-95c2-259acf3dffc8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Sample">
+      <UniqueIdentifier>{dfaaac88-07cf-4205-9382-ba91201596f9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="fade.cpp">
@@ -243,6 +246,12 @@
     <ClCompile Include="time.cpp">
       <Filter>UI</Filter>
     </ClCompile>
+    <ClCompile Include="sample.cpp">
+      <Filter>Sample</Filter>
+    </ClCompile>
+    <ClCompile Include="sample_manager.cpp">
+      <Filter>Sample</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fade.h">
@@ -436,6 +445,12 @@
     </ClInclude>
     <ClInclude Include="time.h">
       <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="sample.h">
+      <Filter>Sample</Filter>
+    </ClInclude>
+    <ClInclude Include="sample_manager.h">
+      <Filter>Sample</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
