@@ -209,6 +209,7 @@
     <ClCompile Include="shadowCircle.cpp" />
     <ClCompile Include="shadowModel.cpp" />
     <ClCompile Include="skybox.cpp" />
+    <ClCompile Include="soldier.cpp" />
     <ClCompile Include="sound.cpp" />
     <ClCompile Include="speech_message.cpp" />
     <ClCompile Include="stun.cpp" />
@@ -277,6 +278,7 @@
     <ClInclude Include="shadowCircle.h" />
     <ClInclude Include="shadowModel.h" />
     <ClInclude Include="skybox.h" />
+    <ClInclude Include="soldier.h" />
     <ClInclude Include="sound.h" />
     <ClInclude Include="speech_message.h" />
     <ClInclude Include="stun.h" />

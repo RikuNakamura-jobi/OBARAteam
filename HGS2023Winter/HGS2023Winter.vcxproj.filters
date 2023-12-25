@@ -52,6 +52,9 @@
     <Filter Include="Sample">
       <UniqueIdentifier>{dfaaac88-07cf-4205-9382-ba91201596f9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Soldier">
+      <UniqueIdentifier>{ab0bd95d-8229-4c3d-a217-e0f68fb32f11}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="fade.cpp">
@@ -252,6 +255,9 @@
     <ClCompile Include="sample_manager.cpp">
       <Filter>Sample</Filter>
     </ClCompile>
+    <ClCompile Include="soldier.cpp">
+      <Filter>Soldier</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fade.h">
@@ -451,6 +457,9 @@
     </ClInclude>
     <ClInclude Include="sample_manager.h">
       <Filter>Sample</Filter>
+    </ClInclude>
+    <ClInclude Include="soldier.h">
+      <Filter>Soldier</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
